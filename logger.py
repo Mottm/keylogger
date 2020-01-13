@@ -1,3 +1,5 @@
+# https://dev.to/mustafaanaskh99/for-beginners-analyse-your-own-daily-activity-by-building-a-python-keylogger-44kc
+
 from pynput.keyboard import Key, Listener  # pip install pynput
 
 keys = []
